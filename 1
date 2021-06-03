@@ -1,0 +1,2 @@
+USE testDB; 
+INSERT INTO Test VALUES (1, "AA");
